@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='car-parking-place-view.jpg'>
+    <box top='183' left='28' width='49' height='59'/>
+    <box top='185' left='94' width='51' height='52'/>
+    <box top='186' left='157' width='58' height='63'/>
+    <box top='197' left='219' width='52' height='45'/>
+    <box top='188' left='287' width='55' height='51'/>
+    <box top='121' left='333' width='40' height='36'/>
+    <box top='117' left='269' width='54' height='43'/>
+    <box top='114' left='224' width='46' height='44'/>
+    <box top='115' left='172' width='44' height='44'/>
+    <box top='122' left='118' width='38' height='35'/>
+    <box top='117' left='62' width='41' height='39'/>
+    <box top='47' left='27' width='31' height='28'/>
+    <box top='34' left='63' width='31' height='38'/>
+    <box top='40' left='114' width='33' height='31'/>
+    <box top='33' left='166' width='37' height='43'/>
+    <box top='34' left='239' width='38' height='35'/>
+    <box top='44' left='285' width='36' height='30'/>
+  </image>
+  <image file='cars-euromisto-1.jpg'>
+    <box top='177' left='133' width='83' height='90'/>
+    <box top='166' left='244' width='79' height='89'/>
+    <box top='175' left='347' width='67' height='74'/>
+    <box top='175' left='432' width='72' height='66'/>
+    <box top='173' left='537' width='77' height='71'/>
+    <box top='146' left='618' width='93' height='86'/>
+    <box top='75' left='146' width='72' height='62'/>
+    <box top='76' left='238' width='67' height='59'/>
+    <box top='74' left='328' width='66' height='66'/>
+    <box top='58' left='413' width='65' height='77'/>
+    <box top='74' left='497' width='62' height='50'/>
+    <box top='60' left='565' width='69' height='59'/>
+  </image>
+  <image file='cars-klin.jpg'>
+    <box top='149' left='3' width='83' height='62'/>
+    <box top='152' left='117' width='86' height='67'/>
+    <box top='237' left='78' width='103' height='112'/>
+    <box top='254' left='200' width='117' height='122'/>
+    <box top='99' left='240' width='80' height='81'/>
+    <box top='243' left='345' width='110' height='118'/>
+    <box top='150' left='345' width='98' height='77'/>
+    <box top='211' left='480' width='126' height='129'/>
+    <box top='97' left='435' width='80' height='57'/>
+    <box top='47' left='505' width='90' height='58'/>
+  </image>
+  <image file='cars-park-2.jpg'>
+    <box top='95' left='54' width='94' height='89'/>
+    <box top='205' left='30' width='91' height='96'/>
+    <box top='190' left='168' width='90' height='101'/>
+    <box top='212' left='291' width='90' height='81'/>
+    <box top='113' left='291' width='84' height='63'/>
+    <box top='214' left='419' width='89' height='92'/>
+    <box top='205' left='531' width='94' height='100'/>
+    <box top='103' left='531' width='91' height='79'/>
+    <box top='209' left='648' width='107' height='104'/>
+    <box top='97' left='659' width='89' height='72'/>
+    <box top='92' left='782' width='91' height='87'/>
+    <box top='105' left='901' width='95' height='76'/>
+    <box top='110' left='1013' width='103' height='99'/>
+    <box top='213' left='915' width='97' height='89'/>
+  </image>
+  <image file='cars-park-3.jpg'>
+    <box top='41' left='83' width='68' height='54'/>
+    <box top='111' left='69' width='87' height='75'/>
+    <box top='114' left='177' width='72' height='70'/>
+    <box top='110' left='267' width='86' height='80'/>
+    <box top='109' left='385' width='70' height='73'/>
+    <box top='118' left='473' width='77' height='77'/>
+    <box top='108' left='558' width='82' height='69'/>
+    <box top='41' left='558' width='72' height='58'/>
+    <box top='106' left='665' width='78' height='79'/>
+    <box top='102' left='777' width='77' height='86'/>
+    <box top='21' left='760' width='73' height='61'/>
+  </image>
+  <image file='company-car-park.jpg'>
+    <box top='22' left='11' width='108' height='104'/>
+    <box top='27' left='158' width='110' height='100'/>
+    <box top='21' left='312' width='117' height='98'/>
+    <box top='18' left='463' width='123' height='100'/>
+    <box top='233' left='496' width='117' height='119'/>
+    <box top='239' left='316' width='145' height='111'/>
+    <box top='237' left='149' width='134' height='111'/>
+    <box top='226' left='3' width='108' height='121'/>
+  </image>
+  <image file='image-0.jpg'>
+    <box top='61' left='78' width='58' height='50'/>
+    <box top='70' left='153' width='53' height='49'/>
+    <box top='73' left='232' width='63' height='53'/>
+  </image>
+  <image file='image-2.jpg'>
+    <box top='90' left='114' width='84' height='76'/>
+  </image>
+  <image file='image-4.jpg'>
+    <box top='58' left='17' width='93' height='88'/>
+    <box top='62' left='128' width='81' height='79'/>
+  </image>
+  <image file='image-7.jpg'>
+    <box top='37' left='26' width='69' height='47'/>
+    <box top='36' left='138' width='69' height='52'/>
+  </image>
+  <image file='image-8.jpg'>
+    <box top='73' left='149' width='73' height='58'/>
+    <box top='68' left='207' width='53' height='44'/>
+  </image>
+  <image file='image-9.jpg'>
+    <box top='99' left='112' width='70' height='47'/>
+    <box top='97' left='24' width='65' height='52'/>
+  </image>
+  <image file='image-10.jpg'>
+    <box top='23' left='112' width='65' height='49'/>
+    <box top='20' left='192' width='70' height='51'/>
+    <box top='24' left='21' width='66' height='49'/>
+  </image>
+  <image file='image1-0.jpg'>
+    <box top='7' left='22' width='78' height='61'/>
+  </image>
+  <image file='image1-1.jpg'>
+    <box top='99' left='4' width='84' height='61'/>
+  </image>
+  <image file='image1-2.jpg'>
+    <box top='48' left='46' width='139' height='107'/>
+  </image>
+</images>
+</dataset>

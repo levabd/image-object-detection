@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='test-image-5.jpg'>
+    <box top='73' left='20' width='94' height='70'/>
+    <box top='52' left='125' width='115' height='98'/>
+  </image>
+  <image file='test-cars-park-1.jpg'>
+    <box top='66' left='27' width='89' height='85'/>
+    <box top='166' left='138' width='90' height='72'/>
+    <box top='73' left='265' width='80' height='72'/>
+    <box top='157' left='359' width='87' height='88'/>
+    <box top='65' left='572' width='95' height='80'/>
+    <box top='165' left='576' width='97' height='81'/>
+    <box top='158' left='694' width='84' height='92'/>
+    <box top='159' left='802' width='83' height='87'/>
+    <box top='69' left='793' width='85' height='77'/>
+    <box top='79' left='903' width='73' height='88'/>
+    <box top='65' left='998' width='95' height='84'/>
+    <box top='167' left='1022' width='91' height='85'/>
+    <box top='155' left='1136' width='85' height='79'/>
+    <box top='76' left='1124' width='75' height='67'/>
+  </image>
+  <image file='test-image-1.jpg'>
+    <box top='45' left='20' width='117' height='87'/>
+    <box top='36' left='148' width='117' height='80'/>
+  </image>
+  <image file='test-market-car-park.jpg'>
+    <box top='21' left='92' width='44' height='47'/>
+    <box top='22' left='244' width='44' height='43'/>
+    <box top='22' left='294' width='48' height='45'/>
+    <box top='30' left='351' width='40' height='33'/>
+    <box top='51' left='407' width='44' height='50'/>
+    <box top='22' left='449' width='45' height='28'/>
+    <box top='58' left='456' width='49' height='46'/>
+    <box top='55' left='512' width='49' height='49'/>
+    <box top='22' left='502' width='42' height='32'/>
+    <box top='176' left='549' width='55' height='56'/>
+    <box top='181' left='486' width='52' height='54'/>
+    <box top='136' left='482' width='52' height='41'/>
+    <box top='184' left='369' width='52' height='52'/>
+    <box top='177' left='306' width='54' height='56'/>
+    <box top='182' left='247' width='49' height='52'/>
+    <box top='170' left='186' width='55' height='63'/>
+    <box top='182' left='126' width='50' height='51'/>
+    <box top='179' left='60' width='48' height='60'/>
+    <box top='193' left='5' width='46' height='45'/>
+    <box top='140' left='14' width='49' height='45'/>
+    <box top='63' left='141' width='46' height='46'/>
+  </image>
+</images>
+</dataset>
